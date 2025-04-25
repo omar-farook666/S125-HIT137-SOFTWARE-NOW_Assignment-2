@@ -1,0 +1,5 @@
+Warmest Station(s) with Avg Temp 41.48°C:
+MARBLE-BAR (ID: 4106)
+
+Coolest Station(s) with Avg Temp 12.38°C:
+CABRAMURRA-SMHEA-AWS (ID: 72161)
