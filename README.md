@@ -19,7 +19,7 @@ Python program that:
 - Decrypts the file
 - Verifies decryption accuracy
 
-📁 See [`Question1/`](./Question1)
+📁 See [`Question1/`](./Question-1)
 
 ### 📊 Question 2: Weather Data Analysis
 Python script to:
@@ -27,13 +27,13 @@ Python script to:
 - Identify stations with largest temperature ranges
 - Find warmest and coolest stations
 
-📁 See [`Question2/`](./Question2)
+📁 See [`Question2/`](./Question-2)
 
 ### 🌲 Question 3: Recursive Tree Generator
 Generates fractal tree using Turtle graphics with:
 - User-defined angles, branch length, depth, and reduction factor
 
-📁 See [`Question3/`](./Question3)
+📁 See [`Question3/`](./Question-3)
 
 ## 🔗 GitHub Repository Link
 See `github_link.txt`
